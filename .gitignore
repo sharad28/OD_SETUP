@@ -150,3 +150,5 @@ logs/running_logs.log
 
 #Tensorflow models
 TensorFlow/models
+
+protoc
