@@ -152,3 +152,6 @@ logs/running_logs.log
 TensorFlow/models
 
 protoc
+
+#workspace for example
+workspace
